@@ -1,0 +1,70 @@
+variable:used to store value, so with use of variable we can access that value
+
+datatype:used to determine the type of data
+
+keywords:reserved words, which have special meaning to compiler
+
+scope of variable: local and global
+
+conditional statements: if,else..if,else if ladder,nested else if ,switch case
+
+loop:for,while,do-while
+
+function:bloack of code,which execute when it called in main
+
+recursion:when function called itself
+
+array:used to store  multiple values of same datatype
+
+string:collection of multiple characters..in ecery string at the end we have null value '\0'
+
+structure: used to store multiple variables of diffrent datatype
+
+union:used to store multiple variables of diffrent datatype
+diffrence between structure and union
+1)in the union we can access one variable at a time
+2)structure stored total memory byte of variables
+3)union stored highest byte of size
+
+pointer:used to access memory address of variable
+
+C++
+class:is a blueprint of object
+object:is an instance of class
+class data member and member function access modifier:private public protected
+oops:
+4 pillar 1)polymorphism  2)inheritance 3)encapsulation  4)abstraction
+1)polymorphism: 
+one boy have diffrent roles in his life:
+student,player,dancer
+void result:add,sub,mul,div
+void result()
+{
+
+}
+two types of polymorphism:
+1)compile time
+	i)method/function overloading
+	ii)operator overloading
+
+
+
+
+
+2)inheritance:
+parent class, child class
+parent vehicle:price,color,size
+child:car,bike,auto
+
+3)encapsulation: bind data and member function together
+ex:capsule:
+ex:organization:hr,account,finance
+
+4)abstraction:hide impletion part,display only essential info.
+ex:ATM
+ex:phone-whatsapp
+
+friend function-class variable-outer function can use,template-derived datatype
+
+scope resolution operator ::
+this pointer:it points to the class instance
